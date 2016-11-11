@@ -1,0 +1,20 @@
+{
+  "name": "starterkit-patternlab-deg-web",
+  "version": "1.0.0",
+  "description": "The DEG Web StarterKit for Pattern Lab.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/degdigital/starterkit-patternlab-deg-web.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Starterkit"
+  ],
+  "author": "Brian Graves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/degdigital/starterkit-patternlab-deg-web/issues"
+  },
+  "homepage": "https://github.com/degdigital/starterkit-patternlab-deg-web/"
+}

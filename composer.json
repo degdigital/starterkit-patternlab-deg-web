@@ -1,0 +1,32 @@
+{
+  "name":             "degdigital/starterkit-patternlab-deg-web",
+  "description":      "The DEG Web StarterKit for Pattern Lab.",
+  "keywords":         ["mustache", "pattern lab", "starterkit"],
+  "homepage":         "https://github.com/degdigital/starterkit-patternlab-deg-web",
+  "license":          "MIT",
+  "type":             "patternlab-starterkit",
+  "authors": [
+    {
+      "name":         "Brian Graves"
+    },
+    {
+      "name":         "Ryan Heap"
+    }
+  ],
+  "support": {
+    "issues":         "https://github.com/degdigital/starterkit-patternlab-deg-web/issues"
+  },
+  "require": {
+    "pattern-lab/core": "^2.0.0",
+    "pattern-lab/patternengine-mustache": "^2.0.0"
+  },
+  "extra": {
+    "patternlab": {
+      "dist": {
+        "sourceDir": [
+          { "*": "*" }
+        ]
+      }
+    }
+  }
+}
