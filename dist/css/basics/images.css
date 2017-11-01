@@ -1,8 +1,10 @@
-.align-left, .align-right, .align-center {
+.align-left,
+.align-right,
+.align-center {
 	margin: 0 auto 1.5em auto;
 }
 
-@media only screen and (min-width: 40em)  {
+@media (--medium) {
 	.align-left {
 		float: left;
 		margin: 0 1.5em 1.5em 0;

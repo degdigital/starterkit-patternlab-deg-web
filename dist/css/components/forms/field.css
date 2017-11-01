@@ -1,5 +1,5 @@
 .field {
-
+	page-break-inside: avoid;
 }
 
 .field__error-message {

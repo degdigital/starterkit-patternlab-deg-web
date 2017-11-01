@@ -1,7 +1,7 @@
 body {
 	color: var(--color-text);
 	font-family: var(--font-family-primary);
-	font-size: var(--base-font-size);
+	font-size: var(--font-size-base);
 	font-weight: 400;
 }
 
