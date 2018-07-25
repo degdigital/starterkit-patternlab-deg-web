@@ -1,6 +1,6 @@
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+footer, header, hgroup, main, menu, nav, section {
 	display: block;
 }
 
@@ -92,4 +92,8 @@ img {
 	max-width: 100%;
 	height: auto;
 	border: 0;
+}
+
+legend {
+	max-width: 100%;
 }
