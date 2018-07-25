@@ -2,16 +2,15 @@
 
 	--color-black: #000;
 	--color-white: #fff;
-
 	--color-text: var(--color-black);
 
 	--font-family-primary: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-	--base-font-size: 1em;
+	--font-size-base: 1em;
 
-	--page-width: 80rem;
+	--width-page: 80rem;
+	--width-gutter: 1rem;
 	--spacing-horizontal: 1rem;
 	--spacing-vertical: 1.5rem;
-	--gutter-width: 1rem;
 
 	--border-radius: 0.25rem;
 

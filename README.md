@@ -1,2 +1,2 @@
-# starterkit-patternlab-deg-web
-DEG's Patternlab Starterkit
+# starterkit-patternlab-skeletor
+Skeletor's Patternlab Starterkit

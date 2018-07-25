@@ -1,6 +1,6 @@
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
+article, aside, details, figcaption, figure,
+footer, header, hgroup, main, menu, nav, section {
 	display: block;
 }
 
@@ -13,8 +13,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	border: 0;
@@ -31,12 +31,14 @@ html {
 	-webkit-overflow-scrolling: touch;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
 	box-sizing: inherit;
 }
 
 body {
-	font-size: var(--base-font-size);
+	font-size: var(--font-size-base);
 	line-height: 1.2;
 	word-wrap: break-word;
 }
@@ -90,4 +92,8 @@ img {
 	max-width: 100%;
 	height: auto;
 	border: 0;
+}
+
+legend {
+	max-width: 100%;
 }
