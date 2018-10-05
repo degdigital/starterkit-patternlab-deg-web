@@ -1,10 +1,10 @@
 {
-  "name": "starterkit-patternlab-skeletor",
-  "version": "0.0.1",
-  "description": "The Skeletor StarterKit for Pattern Lab.",
+  "name": "@deg-skeletor/starterkit-mustache-default",
+  "version": "1.0.0",
+  "description": "DEG's default Pattern Lab StarterKit for Mustache.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deg-skeletor/starterkit-patternlab-skeletor.git"
+    "url": "git+https://github.com/deg-skeletor/starterkit-mustache-default.git"
   },
   "keywords": [
     "Pattern Lab",
@@ -14,7 +14,10 @@
   "author": "Brian Graves",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deg-skeletor/starterkit-patternlab-skeletor/issues"
+    "url": "https://github.com/deg-skeletor/starterkit-mustache-default/issues"
   },
-  "homepage": "https://github.com/deg-skeletor/starterkit-patternlab-skeletor/"
+  "homepage": "https://github.com/deg-skeletor/starterkit-mustache-default/",
+  "publishConfig": {
+    "access": "public"
+  }
 }

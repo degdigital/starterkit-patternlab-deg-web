@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+- node
+cache:
+  directories:
+  - node_modules
+deploy:
+  provider: npm
+  email: heaper@gmail.com
+  on:
+    branch: master
+    tags: true
+    repo: deg-skeletor/starterkit-mustache-default
+  api_key:
+    secure: U2/9zRypJk24hvqjbP3zRU5Ivar7kjd0Dd2hSjGlARXZq6OzKAghPySOtHhjNtEQ0PQfM+FDTznCGxPfu8GyIE/djzP0hdOnuik/6ig1Mfls9ok/LN+Fo5O2X80QDoCxtzyZ3cV5FMEbbO6rEy+0M7QJQyLMzdVn9NG+EbM3lhHleciNKLyKrVY7NFLAVZHcXwnT7J5ylM85A2lfWfdmKEI4LkdN3oiT+LNt0sAvSETWvWfCE+i2YRZ3ucybVCqA1A4/0k90dPGIJGqxVgVjwE9P+6BbL8zeCUHPWNyY9y3FDjITLHkCjVqQaPH+U9jdaa+5gztqzNpfEFODszTk/kzIxnfORktp0uQommR56ucS/HM7cBeM40Q9f4c2y9O2pTBZ6oo3wJwUTYDutAkHpT3O0l/2fMUdHUSEuy9aVBFrf6bN0ppD+UYDjVBvw5jMuTc2KFsFa3MjHRQjG7U1bXPa6TS8qIf1DCEdjTlnA84YC6FmlGvlvuz91hhcTZjyJlH+hrkx34MU88HoTiy0wyn3Kgn7qzyrJc37pegdLu2CdlyaRW46YLwXxBjHEWaZnTxsCl2iZvDooy+dBykpmborauWFAj/ef6Sz/pYnIBz/VvOT5044Ia2qpgzjaigtXYYhz/Z7mqI1ZmHibUYT0DFoHjEYjHrFGYkySVmf1Zs=
