@@ -1,8 +1,8 @@
 {
-  "name":             "degdigital/starterkit-patternlab-deg-web",
-  "description":      "The DEG Web StarterKit for Pattern Lab.",
+  "name":             "deg-skeletor/starterkit-mustache-default",
+  "description":      "DEG's default Pattern Lab StarterKit for Mustache.",
   "keywords":         ["mustache", "pattern lab", "starterkit"],
-  "homepage":         "https://github.com/degdigital/starterkit-patternlab-deg-web",
+  "homepage":         "https://github.com/deg-skeletor/starterkit-mustache-default",
   "license":          "MIT",
   "type":             "patternlab-starterkit",
   "authors": [
@@ -14,7 +14,7 @@
     }
   ],
   "support": {
-    "issues":         "https://github.com/degdigital/starterkit-patternlab-deg-web/issues"
+    "issues":         "https://github.com/deg-skeletor/starterkit-mustache-default/issues"
   },
   "require": {
     "pattern-lab/core": "^2.0.0",

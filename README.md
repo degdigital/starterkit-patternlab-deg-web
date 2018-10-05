@@ -1,2 +1,2 @@
-# starterkit-patternlab-skeletor
-Skeletor's Patternlab Starterkit
+# starterkit-mustache-default
+DEG's default Pattern Lab StarterKit for Mustache.
