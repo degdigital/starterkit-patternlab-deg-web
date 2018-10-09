@@ -1,2 +1,2 @@
-# starterkit-patternlab-deg-web
-DEG's Patternlab Starterkit
+# starterkit-mustache-default
+DEG's default Pattern Lab StarterKit for Mustache.
