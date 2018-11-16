@@ -1,11 +1,30 @@
 {
 	"title" : "DEG UI Project",
 	"mainId" : "main-content",
+	"primaryColors": [
+		{
+			"code": "#000000",
+			"name": "Black"
+		},
+		{
+			"code": "#FFFFFF",
+			"name": "White"
+		}
+	],
+	"secondaryColors": [
+		{
+			"code": "#999999",
+			"name": "Gray"
+		}
+	],
 	"logo" : {
 		"url": "",
 		"alt": "Logo Alt"
 	},
-	"buttonText": "Button",
+	"button": {
+		"content": "Button",
+		"type": "button"
+	},
 	"video": {
 		"videoID": "5le9sYdYkM"
 	},
